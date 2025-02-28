@@ -1,0 +1,6 @@
+pdfplumber==0.11.5
+python-magic==0.4.27
+PyQt6==6.8.1
+XlsxWriter==3.2.2
+pandas==2.2.3
+python-magic-bin==0.4.14 #For building it on Windows
